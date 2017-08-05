@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Zodiaco</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- Main Activity -->
+    <string name="welcome">BIenvenido, Por favor ingresa tu nombre.</string>
+    <string name="writeName">Ingresa tu Nombre</string>
+    <!-- Calendar activity -->
+    <string name="titleCalendar">Ingresa Tu dia y mes de nacimiento para saber tu signo</string>
+</resources>
